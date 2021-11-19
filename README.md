@@ -5,5 +5,4 @@
     Check out my porftolio: https://www.codingwithsoul.com
 - 📫 How to reach me: 
     contact@codingwithsoul.com
-    (312) 678-6731
 
