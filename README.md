@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Martin
-- 💼 I'm a full stack Flutter developer in search of a cross-platform application development role
+- 💼 My current role is an Associate Software Developer at Bottle Rocket, working primarily with Flutter
 - 🎓 I have a B.S. in Computer Science from the University of Illinois at Chicago
-- 🌱 I have 3+ years experience with Flutter. I am currently working on my Google UX Designer Certificate.
-    Check out my porftolio (written in Flutter): https://www.codingwithsoul.com
+- 🌱 Check out my porftolio (written in Flutter/Dart): https://www.codingwithsoul.com
 - 📫 How to reach me: 
     contact@codingwithsoul.com
-
